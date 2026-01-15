@@ -1,1 +1,6 @@
-# Elevate-Task-1
+# Task-1
+From this Task 1, I learned basic concepts of cyber security and was able to see how different systems are vulnerable under attack. Starting with the CIA Triad, and its implications for security: Confidentiality, Integrity, Availability In situations that happen in real world though such as money transfer through banking applications lost control of important messages on email services being shopped by anyone over the internet, or let cruising around Without is logged onto Facebook you get ventilated louder than an MP when bitten by mosquitoes.
+I also studied the motives and attack methods of different kinds of attackers, including script kiddies, insider threats, hacktivists, and nation-state actors. I needed this knowledge to create an attack mindset, which is essential for ethical hacking.
+After that I looked at common attack surfaces like web applications, mobile apps, APIs, networks, and cloud infrastructure. And I researched the OWASP TOP 10 vulnerabilities to understand the most common security risks in web applications and how attackers exploit things like broken access control, injection attacks, security
+In addition, apps used every day such as email, WhatsApp and bank Apps are all key areas where I took this into consideration.
+Moreover, I traced the data path from user to app, server, database and found where along this process it is that an attack could occur.
