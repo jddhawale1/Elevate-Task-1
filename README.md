@@ -4,3 +4,4 @@ I also studied the motives and attack methods of different kinds of attackers, i
 After that I looked at common attack surfaces like web applications, mobile apps, APIs, networks, and cloud infrastructure. And I researched the OWASP TOP 10 vulnerabilities to understand the most common security risks in web applications and how attackers exploit things like broken access control, injection attacks, security
 In addition, apps used every day such as email, WhatsApp and bank Apps are all key areas where I took this into consideration.
 Moreover, I traced the data path from user to app, server, database and found where along this process it is that an attack could occur.
+Sources = ISC2 (CC) learning material , OWASP website , Personal Study material 
